@@ -16,3 +16,8 @@ https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers
 Container vs VM Security:
 
 https://cloud.google.com/blog/products/gcp/demystifying-container-vs-vm-based-security-security-in-plaintext
+
+Linux Academy Course on Docker (free during June 2019)
+https://linuxacademy.com/linux/training/course/name/docker-deep-dive-part-1
+
+
